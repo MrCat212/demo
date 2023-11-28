@@ -1,0 +1,26 @@
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.AssemblyReference.cache
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.Form1.resources
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.Properties.Resources.resources
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.GenerateResource.cache
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.CoreCompileInputs.cache
+S:\C#\Desck\DemoEZ\DemoEZ\bin\Debug\DemoEZ.exe.config
+S:\C#\Desck\DemoEZ\DemoEZ\bin\Debug\DemoEZ.exe
+S:\C#\Desck\DemoEZ\DemoEZ\bin\Debug\DemoEZ.pdb
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.exe
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.pdb
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.AdminPanel.resources
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.ClientPanel.resources
+S:\C#\Desck\DemoEZ\DemoEZ\obj\Debug\DemoEZ.ManagerPanel.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\bin\Debug\DemoEZ.exe.config
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\bin\Debug\DemoEZ.exe
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\bin\Debug\DemoEZ.pdb
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.AssemblyReference.cache
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.AdminPanel.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.ClientPanel.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.Form1.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.ManagerPanel.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.Properties.Resources.resources
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.GenerateResource.cache
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.exe
+C:\Users\Mr_Ca\OneDrive\Рабочий стол\DemoEZ\DemoEZ\obj\Debug\DemoEZ.pdb
